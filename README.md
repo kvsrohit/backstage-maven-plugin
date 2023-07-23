@@ -1,2 +1,2 @@
 # backstage-maven-plugin
-Maven Plugin to generating backstage catalog from maven pom
+Maven Plugin to generate backstage catalog from maven pom
